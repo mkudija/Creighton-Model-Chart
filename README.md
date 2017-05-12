@@ -11,7 +11,36 @@
 ![Example](https://github.com/mkudija/Creighton-Model-Chart/blob/master/Charts/example1.png)
 
 ## Background
-...Creighton background
+According to the [United States Conference of Catholic Bishops](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/what-is-nfp/), Natural Family Planning (NFP) is
+>the general title for the scientific, natural and moral methods of family planning that can help married couples either achieve or postpone pregnancies.
+
+The [Creighton Model](http://www.creightonmodel.com/index.html) is one of several [NFP methods](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/what-is-nfp/methods.cfm) which uses the observation of biomarkers (cervical mucus) to identify the natural times of fertility and infertility (other popular methods include [the Billings Model](http://www.woomb.org/), [the Sympto-Thermal Method](https://sympto.org/data/manual_en_sympto.pdf), and [the Marquette Model](http://nfp.marquette.edu/)). The Creighton Model was developed by Dr. Thomas Hilgers at Creighton University in the 1970's and 1980's and is one of the most popular NFP methods. It has been widely studied, and has also led to the development of NaProTechnology (natural procreative technology), a method of medical treatments for women that preserves fertility.
+
+Charting is a convenient way of visually tracking the woman's cycle. Creighton Method instruction typically includes instruction in using a paper chart (examples of which are available [here](http://www.creightonmodel.com/background.htm)). Unfortunately, there does not appear to be an app or other official form of electronic charting. Electronic charting in some form would greatly improve convenience and data integrity.
+
+### Survey of Electronic Charting Options
+There are a variety of electronic (app, online, spreadsheet) charting options available offering various combinations of features and degrees of compatibility with the Creighton model. Below are links to some of the electronic charts I found online:
+
+#### Homemade Electronic Charts
+* [Creighton Model of Natural Family Planning Digital Chart (Google Sheets)](http://nfpandme.blogspot.com/2012/03/good-bye-paper-charts.html)
+
+### Charting Apps
+* Kindara
+* [OvuView](https://play.google.com/store/apps/details?id=com.sleekbit.ovuview&hl=en)
+
+
+
+### Online Charting
+* [Northwest Family Services ($12)](http://www.nwfs.org/natural-family-planning/online-charting)
+
+
+Creighton background
+
+## Stickers
+<img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/green.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/red.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/green_baby.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/green_baby_1.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/green_baby_2.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/green_baby_3.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/white_baby.png" width="50"/> <img src="https://github.com/mkudija/Creighton-Model-Chart/blob/master/Stickers/white_baby_P.png" width="50"/>
+
+Images to form the "stickers" are located in [`/Stickers`](https://github.com/mkudija/Creighton-Model-Chart/tree/master/Stickers). Stickers with the baby illustration are derived from the "dancing baby" by [Jeff Geerling](https://www.jeffgeerling.com/blog/2010/dancing-baby-illustration). 
+
 
 # Requirements
 
