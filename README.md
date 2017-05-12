@@ -20,7 +20,7 @@ Charting is a convenient way of visually tracking the woman's cycle. Creighton M
 ### Survey of Electronic Charting Options
 There are a variety of electronic (app, online, spreadsheet) charting options available offering various combinations of features and degrees of compatibility with the Creighton model. Below are links to some of the options I found online:
 
-### Charting Apps
+#### Charting Apps
 * [NFP Charting (free)](https://itunes.apple.com/us/app/nfp-charting/id300767738?mt=8)
 * [Kindara (free)](https://www.kindara.com/)
 * [OvuView (free)](https://play.google.com/store/apps/details?id=com.sleekbit.ovuview&hl=en)
@@ -28,7 +28,7 @@ There are a variety of electronic (app, online, spreadsheet) charting options av
 * [Lily (free)](http://whimsicallily.com/lily/appstore.php)
 * [Fertility Friend (free)](https://itunes.apple.com/app/apple-store/id443919067?mt=8)
 
-### Online Charting
+#### Online Charting
 * [Northwest Family Services ($12)](http://www.nwfs.org/natural-family-planning/online-charting)
 * [My Fertility Charts ($2.50/mo)](http://www.myfertilitycharts.com/)
 
