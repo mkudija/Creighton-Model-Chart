@@ -10,6 +10,9 @@
 ## Example Chart
 ![Example](https://github.com/mkudija/Creighton-Model-Chart/blob/master/Charts/example1.png)
 
+## Disclaimer
+This software is not endorsed or in any way affiliated with the Pope Paul VI Institute or the "Official Creighton Model". It is intended only to facilitate electronic vizualization instead of paper charts with physical stickers. The user provides determination of what to chart via data files in [`Data/`](https://github.com/mkudija/Creighton-Model-Chart/tree/master/Data). 
+
 ## Background
 According to the [United States Conference of Catholic Bishops](http://www.usccb.org/issues-and-action/marriage-and-family/natural-family-planning/what-is-nfp/), Natural Family Planning (NFP) is "the general title for the scientific, natural and moral methods of family planning that can help married couples either achieve or postpone pregnancies."
 
