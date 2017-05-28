@@ -65,7 +65,7 @@ User inputs are gathered via Excel files in [`Data/`](https://github.com/mkudija
 | ------------- |:-------------:| -------- | ------------ |
 | MM/DD/YY      | *record using usual code* | *see below* | Record **I** for Intercourse | 
 
-**Stickers - ** use the following codes for each sticker type:
+**Stickers** - use the following codes for each sticker type:
 - `g` - green
 - `r` - red
 - `y` - yellow
