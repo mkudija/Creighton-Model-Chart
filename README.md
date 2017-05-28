@@ -46,20 +46,43 @@ Finding nothing that meets our needs above, and wanting to make something simple
 
 Images to form the "stickers" are located in [`/Stickers`](https://github.com/mkudija/Creighton-Model-Chart/tree/master/Stickers). Stickers with the baby illustration are derived from the "dancing baby" by [Jeff Geerling](https://www.jeffgeerling.com/blog/2010/dancing-baby-illustration). 
 
+### Usage
 
-### Requirements
+#### Installation
+Clone this repo using [`https://github.com/mkudija/Creighton-Model-Chart.git`](https://github.com/mkudija/Creighton-Model-Chart.git).
+
+#### Requirements
 
 * python 3.5.2
 * matplotlib 1.5.1
 * pandas 0.18.1
 
-### Installation
-Clone this repo using [`https://github.com/mkudija/Creighton-Model-Chart.git`](https://github.com/mkudija/Creighton-Model-Chart.git).
-
-### Run
 
 #### Generate Data
+User inputs are gathered via Excel files in [`Data/`](https://github.com/mkudija/Creighton-Model-Chart/tree/master/Data). 
+
+| Date          | Discharge     | Sticker  | Intercourse  | 
+| ------------- |:-------------:| -------- | ------------ |
+| MM/DD/YY      | *record using usual code* | *see below* | Record **I** for Intercourse | 
+
+**Stickers - ** use the following codes for each sticker type:
+- `g` - green
+- `r` - red
+- `y` - yellow
+- `wb` - white baby
+- `wbp` - white baby (Peak Day)
+- `wb1` - white baby (Peak +1)
+- `wb2` - white baby (Peak +2)
+- `wb3` - white baby (Peak +3)
+- `gb` - green baby 
+- `gb1` - green baby (Peak +1)
+- `gb2` - green baby (Peak +2)
+- `gb3` - green baby (Peak +3)
+
 
 #### Create Single Chart
+Run [`(1)plotChart.ipynb`](https://github.com/mkudija/Creighton-Model-Chart/blob/master/(1)plotChart.ipynb) to generate the chart for a single cycle. Note that the filepaths reference local directories to protect privacy. Change filepaths as needed to the location of your data and desired output for charts. Update `name` for the date of the start of the cycle you want to plot. 
 
 #### Merge Charts
+Run [`(2)combineCharts.ipynb`](https://github.com/mkudija/Creighton-Model-Chart/blob/master/(2)combineCharts.ipynb) to combine multiple single cycle charts into a full chart (the group of 6 cycles you are used to seeing on paper charts). Again, change paths as required to match your directory of individual charts, and update `list_im` with the individual charts you wish to include.  
+
