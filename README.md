@@ -53,9 +53,10 @@ Clone this repo using [`https://github.com/mkudija/Creighton-Model-Chart.git`](h
 
 #### Requirements
 
-* python 3.5.2
-* matplotlib 1.5.1
-* pandas 0.18.1
+- python 3.5.2
+- matplotlib 1.5.1
+- pandas 0.18.1
+- PIL
 
 
 #### Generate Data
